@@ -1,0 +1,4 @@
+dist
+docker2metric.egg-info/
+.env
+build
